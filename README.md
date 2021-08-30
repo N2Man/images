@@ -1,1 +1,1 @@
-This repo is used for mt blog's images.
+This repo is used for my personal blog's images.
